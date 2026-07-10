@@ -20,5 +20,4 @@ kubectl apply -f configmap
 
 ## reference
 
-- check [the python app example](https://github.com/benc-uk/python-demoapp
-)
+- check [the python app example](https://github.com/benc-uk/python-demoapp)
